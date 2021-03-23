@@ -11,3 +11,7 @@ const GifGridItem = ({title, url}) => {
 }
 
 export default GifGridItem
+
+
+// enzyme - enzyme to json - debe de mostrar el componente correctamente
+// shallow - wrapper - wrapper.tomatchsnapshot
